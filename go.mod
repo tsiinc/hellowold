@@ -1,3 +1,3 @@
-module source.developers.google.com/p/dj-build/r/helloworld
+module github.com/tsiinc/helloworld
 
 go 1.12

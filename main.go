@@ -1,7 +1,7 @@
 package main
 
 import (
-	"source.developers.google.com/p/dj-build/r/sandy"
+	"github.com/tsiinc/sandy"
 )
 
 func main() {
